@@ -5,9 +5,10 @@ CONTENTS OF THIS FILE
 
  * Introduction
  * Requirements
- * Recommended modules
- * Installation
- * Configuration
+ <!-- * Recommended modules -->
+
+ WOW this is so fun
+ 
  * Troubleshooting
 
  INTRODUCTION
